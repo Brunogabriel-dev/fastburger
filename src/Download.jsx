@@ -34,3 +34,16 @@ const Download = () => {
                                 <path fill="#3BCCFF" d="M99.1,401.1l-64.3-64.3c-2.6,0.6-4.8,2.9-4.8,7.6  c0,7.5,0,107.5,0,113.8c0,4.3,1.7,7.4,4.9,7.7L99.1,401.1z"/>
                             </svg>
                         </div>
+                        <div>
+                        <div class="text-xs">GET IT ON</div>
+                        <div class="text-xl font-semibold font-sans -mt-1">Google Play</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+  )
+}
+
+export default Download
